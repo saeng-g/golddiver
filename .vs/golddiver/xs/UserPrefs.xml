@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{58C97F0A-63A1-58B3-DE41-D56878FFB8F5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerMvt.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMvt.cs" Line="62" Column="26" />
+      <File FileName="Assets/Scripts/SharkSpawner.cs" Line="89" Column="26" />
+      <File FileName="Assets/Scripts/Shark.cs" Line="11" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="golddiver" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PlayerMvt.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0ad8e6ce-9f04-400b-8aaa-9c53f7dd3054" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
